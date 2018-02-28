@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="CardMarge">16dp</dimen>
+    <dimen name="CardContentMarge">16dp</dimen>
+    <dimen name="NameTextCard">16dp</dimen>
+    <dimen name="SmallTextCard">12dp</dimen>
+
+</resources>
