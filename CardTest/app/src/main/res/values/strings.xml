@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CardTest</string>
+
+    <string name="ColorButtonText">Color</string>
+    <string name="LuminosityButtonText">Luminosity</string>
+</resources>
