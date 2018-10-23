@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ipaddress">Adresse Ip</string>
+    <string name="portnumber">Numéro Port</string>
+    <string name="connection">Connection</string>
+    <string name="clear">Effacer</string>
+    <string name="send">Envoyer</string>
+    <string name="messageReceived">Message reçu</string>
+    <string name="messageToSend">Message à envoyer</string>
+</resources>
