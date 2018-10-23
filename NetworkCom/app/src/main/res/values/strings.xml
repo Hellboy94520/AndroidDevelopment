@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NetworkCom</string>
+    <string name="ipaddress">IP Address</string>
+    <string name="portnumber">Port Number</string>
+    <string name="connection">Connection</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="messageReceived">Message received</string>
+    <string name="messageToSend">Message To Send</string>
 </resources>
